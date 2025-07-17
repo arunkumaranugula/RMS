@@ -1,0 +1,20 @@
+[
+  {
+    "username": "jdoe",
+    "firstName": "John",
+    "lastName": "Doe",
+    "password": "password123",
+    "dob": "1990-01-01",
+    "phoneNumber": "1234567890",
+    "emailId": "jdoe@example.com"
+  },
+  {
+    "username": "asmith",
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "password": "alicepass",
+    "dob": "1985-05-15",
+    "phoneNumber": "9876543210",
+    "emailId": "asmith@example.com"
+  }
+]
